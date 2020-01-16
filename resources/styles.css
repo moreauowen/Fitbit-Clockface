@@ -1,0 +1,39 @@
+#clockText {
+  font-size: 56;
+  font-family: Colfax-Medium;
+  text-length: 80;
+  text-anchor: middle;
+  x: 50%;
+  y: 16%;
+  fill: white;
+}
+
+#heartRateText {
+  font-size: 30;
+  font-family: Colfax;
+  text-length: 20;
+  text-anchor: start;
+  x: 14%;
+  y: 97%;
+  fill: white;
+}
+
+#dateText {
+  font-size: 30;
+  font-family: Colfax-Light;
+  text-length: 80;
+  text-anchor: start;
+  x: 02%;
+  y: 33%;
+  fill: white;
+}
+
+#batteryText {
+  font-size: 30;
+  font-family: Colfax-Light;
+  text-length: 80;
+  text-anchor: end;
+  x: 98%;
+  y: 33%;
+  fill: white;
+}

@@ -1,0 +1,7 @@
+<svg>
+  <image href="image.png" />
+  <text id="clockText"></text>
+  <text id="dateText"></text>
+  <text id="heartRateText"></text>
+  <text id="batteryText"></text>
+</svg>
